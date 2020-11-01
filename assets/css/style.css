@@ -1,0 +1,49 @@
+#container>div {
+    float: left;
+}
+/* box1 = ligne vert */
+#box1 {
+    width: 80%;
+    height: 50px;
+    background-color: #2ecc71;
+}
+#box2 {
+    width: 20%;
+    height: 50px;
+    background-color: #2980B9;
+}
+#box3 {
+    width: 34%;
+    height: 150px;
+    background-color: #E74C3C;
+}
+#box4 {
+    width: 33%;
+    height: 75px;
+    background-color: #E67E22;
+}
+#box5 {
+    width: 33%;
+    height: 75px;
+    background-color: #95A5A6;
+}
+#box6 {
+    width: 22%;
+    height: 75px;
+    background-color: #F39C12;
+}
+#box7 {
+    width: 22%;
+    height: 75px;
+    background-color: #16A085;
+}
+#box8 {
+    width: 22%;
+    height: 75px;
+    background-color: #D35400;
+}
+#box9 {
+    width: 100%;
+    height: 300px;
+    background-color: #2C3E50;
+}
